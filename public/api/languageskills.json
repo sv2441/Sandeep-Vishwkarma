@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Deep Learning",
+        "percentage": 90
+    },
+    {
+        "id": 2,
+        "title": "Machine Learing",
+        "percentage": 95
+    },
+    {
+        "id": 3,
+        "title": "Computer Vision",
+        "percentage": 80
+    },
+    {
+        "id": 4,
+        "title": "Natural Language Processing",
+        "percentage": 70
+    },
+    {
+        "id": 5,
+        "title": "Python",
+        "percentage": 95
+    },
+    {
+        "id": 6,
+        "title": "Deployment",
+        "percentage": 75
+    },
+    {
+        "id": 7,
+        "title": "Preprocessing",
+        "percentage": 90
+    },
+    {
+        "id": 8,
+        "title": "Robotics",
+        "percentage": 90
+    }
+]

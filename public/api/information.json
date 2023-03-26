@@ -1,0 +1,31 @@
+{
+    "firstName": "Sandeep",
+    "lastName": "Vishwakarma",
+    "fullName": "Sandeep Vishwakarma",
+    "thumbImage": "/images/formal-image.png",
+    "largeImage": "/images/about-image.png",
+    "bio": "I am a Machine Learing Engineer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+    "age": 24,
+    "nationality": "Indian",
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "address": "3/Hanuman Chawal, MIDC andheri East, Mumbai, India",
+    "freelance": "Available",
+    "socialAddress": {
+        "facebook": "https://instagram.com/__sandeepv__?igshid=YmMyMTA2M2Y= ",
+        "twitter": "https://twitter.com/__sandeepv__",
+        "github": "https://github.com/sv2441",
+        "linkedin": "https://www.linkedin.com/in/sandeep-vishwakarma/",
+        "dribbble": "https://medium.com/@sinu2441"
+    },
+    "phoneNumbers": [
+        "+91-8286302441",
+        "+91-8956210015"
+    ],
+    "emailAddress": [
+        "sinu2441@gmail.com",
+        "sv.atharva@gmail.com"
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Machine Learning",
+        "value": "uiux"
+    },
+    {
+        "id": 2,
+        "title": "Deep Learning",
+        "value": "html"
+    },
+    {
+        "id": 3,
+        "title": "Computer Vision",
+        "value": "react"
+    },
+    {
+        "id": 4,
+        "title": "NLP",
+        "value": "node"
+    }
+]

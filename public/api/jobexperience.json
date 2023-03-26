@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Student Partner Internship",
+        "meta": "Bolt IoT.",
+        "text": "To popularising the concepts of the Internet of Things and Machine Learning brand awareness and business development of the Bolt IoT and ML online video training.",
+        "year": "2019 - 2019"
+    },
+    {
+        "id": 2,
+        "title": "Hackathon specialist",
+        "meta": "Script Foundation.",
+        "text": "Work as Hackathon Specialist .",
+        "year": "2020 - 2020"
+    },
+    {
+        "id": 3,
+        "title": "Machine Learning Intern",
+        "meta": "Feynn Labs.",
+        "text": "Responsible for AI product/ Service Prototyping, Market Segmentation using Machine learning and Data analysis and Ai product/ Service Business and Financial Modelling.",
+        "year": "2022 - 2023"
+    }
+]
