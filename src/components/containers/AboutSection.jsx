@@ -35,6 +35,7 @@ const AboutSection = () => {
               layout="responsive"
               alt={data.fullName}
               placeholder="blur"
+              className="about-profile"
               blurDataURL={`data:image/svg+xml;base64,${toBase64(
                 shimmer(660, 422)
               )}`}
