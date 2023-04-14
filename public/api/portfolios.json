@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "Candle",
-        "subtitle": "Creative Candle Light",
-        "coverimage": "/images/portfolios/portfolio-image-19.jpg",
+        "title": "Road Traffic Severity Classification",
+        "subtitle": "Machine learning",
+        "coverimage": "/images/portfolios/RTSC_sm_img1.png",
         "imagegallery": [
             "/images/portfolios/portfolio-image-lg-19.jpg",
             "/images/portfolios/portfolio-image-lg-18.jpg",
@@ -11,120 +11,120 @@
         ],
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["react"]
+        "filters": ["ml"]
     },
     {
         "id": 2,
-        "title": "Paint",
-        "subtitle": "Creative wall painting",
-        "coverimage": "/images/portfolios/portfolio-image-2.jpg",
+        "title": "Site Energy Intensity Prediction",
+        "subtitle": "Machine learning",
+        "coverimage": "/images/portfolios/SEIP_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["uiux"]
+        "filters": ["ml"]
     },
     {
         "id": 3,
-        "title": "UI/UX Sample",
-        "subtitle": "UI/UX Sample design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-3.jpg",
+        "title": "Wild Blueberry Yield Prediction",
+        "subtitle": "Machine learning",
+        "coverimage": "/images/portfolios/WBYP_sm_img1.png",
         "imagegallery": false,
         "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
         "url": "https://dribbble.com",
-        "filters": ["html", "react"]
+        "filters": ["ml"]
     },
     {
         "id": 4,
-        "title": "Packet",
-        "subtitle": "Packet design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-4.jpg",
+        "title": "Patient Survival Prediction",
+        "subtitle": "Deep Learning",
+        "coverimage": "/images/portfolios/PSP_sm_img1.png",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-4.jpg"],
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["uiux", "node"]
+        "filters": ["dl"]
     },
     {
         "id": 5,
-        "title": "Packet",
-        "subtitle": "Another packet design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-5.jpg",
+        "title": "Higgs Boson Event Detection",
+        "subtitle": "Deep Learning",
+        "coverimage": "/images/portfolios/HBED_sm_img1.png",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-5.jpg"],
         "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
         "url": "https://dribbble.com",
-        "filters": ["uiux", "html"]
+        "filters": ["dl"]
     },
     {
         "id": 6,
-        "title": "Cream",
-        "subtitle": "Creative cream box design",
-        "coverimage": "/images/portfolios/portfolio-image-6.jpg",
+        "title": "DMSP Particle Precipitate Flux Prediction",
+        "subtitle": "Deep Learning",
+        "coverimage": "/images/portfolios/DMSP_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["html", "node"]
+        "filters": ["dl"]
     },
     {
         "id": 7,
-        "title": "NFT",
-        "subtitle": "Creative NFT Design",
-        "coverimage": "/images/portfolios/portfolio-image-7.jpg",
+        "title": "Cyberbullying Detection",
+        "subtitle": "Text Classification",
+        "coverimage": "/images/portfolios/CBD_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["react", "uiux"]
+        "filters": ["nlp"]
     },
     {
         "id": 8,
-        "title": "Atar",
-        "subtitle": "Atar box design",
-        "coverimage": "/images/portfolios/portfolio-image-8.jpg",
+        "title": "Game Of Thrones",
+        "subtitle": "Text Generation",
+        "coverimage": "/images/portfolios/GOT_sm_img1.png",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-8.jpg"],
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["uiux"]
+        "filters": ["nlp"]
     },
     {
         "id": 9,
-        "title": "Cream",
-        "subtitle": "Another cream box design",
-        "coverimage": "/images/portfolios/portfolio-image-9.jpg",
+        "title": "English to Hindi",
+        "subtitle": "Text Translation",
+        "coverimage": "/images/portfolios/ETHT_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["html", "react"]
+        "filters": ["nlp"]
     },
     {
         "id": 10,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel box design",
-        "coverimage": "/images/portfolios/portfolio-image-10.jpg",
+        "title": "Plant Seedling Classification",
+        "subtitle": "Image Classification",
+        "coverimage": "/images/portfolios/PSC_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["uiux", "node"]
+        "filters": ["cv"]
     },
     {
         "id": 11,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel tube design",
-        "coverimage": "/images/portfolios/portfolio-image-11.jpg",
+        "title": "Racoon Detection",
+        "subtitle": "Object Detection",
+        "coverimage": "/images/portfolios/RAD_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["uiux", "html"]
+        "filters": ["cv"]
     },
     {
         "id": 12,
-        "title": "NFT",
-        "subtitle": "Creative NFT Text",
-        "coverimage": "/images/portfolios/portfolio-image-12.jpg",
+        "title": "Water body segmentation in Satellite Images",
+        "subtitle": "Image Segmentation",
+        "coverimage": "/images/portfolios/WBSSI_sm_img1.png",
         "imagegallery": [
             "/images/portfolios/portfolio-image-lg-12.jpg",
             "/images/portfolios/portfolio-image-lg-11.jpg"
         ],
         "videogallery": false,
         "url": "https://dribbble.com",
-        "filters": ["html", "node"]
+        "filters": ["cv"]
     },
     {
         "id": 13,
