@@ -2,21 +2,26 @@
     {
         "id": 1,
         "title": "Machine Learning",
-        "value": "uiux"
+        "value": "ml"
     },
     {
         "id": 2,
         "title": "Deep Learning",
-        "value": "html"
+        "value": "dl"
     },
     {
         "id": 3,
         "title": "Computer Vision",
-        "value": "react"
+        "value": "cv"
     },
     {
         "id": 4,
         "title": "NLP",
-        "value": "node"
+        "value": "nlp"
+    },
+    {
+        "id": 5,
+        "title": "Robotics",
+        "value": "robotics"
     }
 ]

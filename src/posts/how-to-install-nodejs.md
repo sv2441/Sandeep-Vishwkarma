@@ -1,51 +1,74 @@
 ---
-title: "How to install NodeJs"
+title: "MediaPipe with Open CV Python"
 date: "2022-04-08T20:31:59.889Z"
 category: ["Javascript"]
 cover: "/images/blog/blog-image-4.jpg"
 thumb: "/images/blog/sm/blog-image-4.jpg"
 ---
 
-Blanditiis corporis [Link Text](https://themeforest.net) accusamus accusamus. **Bold Text** sed quasi neque rerum deserunt eum sint ad. Et excepturi quia ut qui. Dolorem et et distinctio rerum. Eveniet suscipit eveniet recusandae. Vero qui _Italic Text_ quas aliquam. Expedita saepe non et velit voluptas `npm run install` quidem ut dignissimos. Et architecto ex et iste. Qui dolor sunt magnam eos mollitia. Delectus voluptas sed ut et blanditiis. Quos perferendis distinctio dolor eligendi. Sequi dolores velit et at inventore vero culpa similique.
 
-##### Dolorem et et distinctio rerum.
+# OpenCV with MediaPipe 
 
-Eveniet suscipit eveniet recusandae. Vero qui quas aliquam. Expedita saepe non et velit voluptas quidem ut dignissimos. Labore odio deserunt deserunt ipsam omnis ut. Consequatur aut eos voluptas harum cumque explicabo dicta.
+![](https://github.com/sv2441/OpenCV-with-MediaPipeline/blob/master/allresultgif.gif)
 
-> Eaque minus aut voluptatum. Aut beatae numquam similique quasi. Est perferendis voluptatem qui sint ut veritatis inventore. Quaerat repudiandae deleniti asperiores mollitia rerum voluptate.
 
-Ad reprehenderit accusamus. Incidunt architecto rerum rerum maxime est. Exercitationem harum autem quam id sed consequatur possimus. Distinctio asperiores nostrum consectetur minima velit est amet quas modi. Labore odio deserunt deserunt ipsam omnis ut. Consequatur aut eos voluptas harum cumque explicabo dicta.
+In the Project I used Mediapipe for face, Hand and Pose detection MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.
 
+It gives ready-to-use solutions: Cutting-edge ML solutions demonstrating full power of the framework	Free and open source: Framework and solutions both under Apache 2.0, fully extensible and customizable.
+
+#### Read in deatils on **Medium blog**
+
+[Exploring the Power of Mediapipe and OpenCV: A Hands-on Project for Hand, Pose and Face Detection](https://medium.com/@sinu2441/exploring-the-power-of-mediapipe-and-opencv-a-hands-on-project-for-hand-pose-and-face-detection-4904ba223641)
+
+
+
+
+## Installation
+
+Clone the Repository
+and Install the library
+
+```bash
+  pip install opencv-python
+  pip install mediapipe
 ```
-const getSinglePostData = (slug) => {
-    const article = fs.readFileSync(
-        path.join(process.cwd(), "src/articles", slug + ".md"),
-        "utf-8"
-    );
-    const { data: frontmatter, content } = matter(article);
-    return {
-        frontmatter,
-        content,
-    };
-};
-```
+    
+## Files Information
 
-Ad reprehenderit accusamus. Incidunt architecto rerum rerum maxime est. Exercitationem harum autem quam id sed consequatur possimus. Distinctio asperiores nostrum consectetur minima velit est amet quas modi. Labore odio deserunt deserunt ipsam omnis ut. Consequatur aut eos voluptas harum cumque explicabo dicta.
+##### FaceTracking.py :-  Face Tracking using Webcam 
+##### HandTracking.py :   Hand Tracking using Webcam 
+##### PoseTracking.py :-  Pose Tracking using Webcam 
 
-##### Nested Order List
+#### for Python API 
+Supported configuration options:
 
-1. First item
-2. Second item
-    1. Nested First item
-    2. Nested Second item
-3. Third item
+static_image_mode
 
-##### Nested Unorder List
+min_detection_confidence
 
--   First item
--   Second item
-    -   Nested First item
-    -   Nested Second item
--   Third item
+min_tracking_confidence
 
-Et excepturi quia ut qui. Dolorem et et distinctio rerum. Eveniet suscipit eveniet recusandae. Vero qui quas aliquam. Expedita saepe non et velit voluptas quidem ut dignissimos. Et architecto ex et iste. Qui dolor sunt magnam eos mollitia. Delectus voluptas sed ut et blanditiis.
+
+
+
+
+## Tech Stack
+
+OpenCV , Mediapipe 
+
+
+## Demo
+
+**[Youtube](https://sv2441.github.io/sandeepp/)**
+
+
+## Acknowledgements
+
+ - [Face Detection | mediapipe](https://google.github.io/mediapipe/solutions/face_detection#python-solution-api)
+ - [Pose Detection | mediapipe](https://google.github.io/mediapipe/solutions/pose.html)
+ - [Hand Detection | mediapipe](https://google.github.io/mediapipe/solutions/pose.html)
+ 
+## Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sv2441.github.io/sandeepp/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-vishwakarma-3b592b174/)
+

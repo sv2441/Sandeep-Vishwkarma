@@ -1,7 +1,7 @@
 ---
-title: "How to choose javascript framework for your project"
-date: "2022-04-30T20:31:59.889Z"
-category: ["Javascript", "Technology"]
+title: "How to Use Yolo V8 Object Detection model for Custom Data"
+date: "2023-02-05T20:31:59.889Z"
+category: ["Deep Learning", "Object Detection"]
 cover: "/images/blog/blog-image-4.jpg"
 thumb: "/images/blog/sm/blog-image-4.jpg"
 ---

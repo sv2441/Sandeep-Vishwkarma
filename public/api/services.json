@@ -1,20 +1,20 @@
 [
     {
-        "id": 1,
+        "id": 2,
         "title": "Data Science",
-        "text": "Provide Machine learing , Deep Learing , Computer Vison and Natural Langauge Proceesing Based Solution in Project.",
-        "icon": "/icons/quill-pen-line.svg"
+        "text": "Provide Machine learing,Deep Learing,Computer Vison and Natural Langauge Proceesing Based Solution.",
+        "icon": "/icons/code-s-slash-line.svg "
     },
     {
-        "id": 2,
+        "id": 1,
         "title": "Robotics",
-        "text": "I can Provide Ardiuno , Raspberry Pi and Other Microcontroller based Solution to the Project.",
-        "icon": "/icons/code-s-slash-line.svg"
+        "text": "I can Provide Ardiuno, Raspberry Pi and Other Microcontroller based Solution to the Project and integrate with ML.",
+        "icon": "/icons/quill-pen-line.svg"
     },
     {
         "id": 3,
         "title": "Web Development",
-        "text": "Provide Website Building for your Portfolio and can integrate Machine Learing Solution In your Project.",
+        "text": "Provide Website Building for your Portfolio and can integrate Machine Learing Solution In your Project and Integrate with ML",
         "icon": "/icons/smartphone-line.svg"
     }
 ]
