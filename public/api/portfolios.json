@@ -10,7 +10,7 @@
             "/images/portfolios/portfolio-image-lg-17.jpg"
         ],
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Road-Severity-Prediction",
         "filters": ["ml"]
     },
     {
@@ -20,7 +20,7 @@
         "coverimage": "/images/portfolios/SEIP_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Site-Energy-Intensity-Prediction",
         "filters": ["ml"]
     },
     {
@@ -30,7 +30,7 @@
         "coverimage": "/images/portfolios/WBYP_sm_img1.png",
         "imagegallery": false,
         "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Wild-Blueberry-Yield-Prediction",
         "filters": ["ml"]
     },
     {
@@ -40,7 +40,7 @@
         "coverimage": "/images/portfolios/PSP_sm_img1.png",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-4.jpg"],
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Patient-Survival-Detection",
         "filters": ["dl"]
     },
     {
@@ -50,7 +50,7 @@
         "coverimage": "/images/portfolios/HBED_sm_img1.png",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-5.jpg"],
         "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Higgs-Boson-Event-Detection-using-Deep-Learning",
         "filters": ["dl"]
     },
     {
@@ -60,7 +60,7 @@
         "coverimage": "/images/portfolios/DMSP_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/DMSP-Particle-Precipitate-Flux-Prediction",
         "filters": ["dl"]
     },
     {
@@ -70,7 +70,7 @@
         "coverimage": "/images/portfolios/CBD_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Cyberbullying-Detection-using-NLP-and-Streamlit",
         "filters": ["nlp"]
     },
     {
@@ -80,7 +80,7 @@
         "coverimage": "/images/portfolios/GOT_sm_img1.png",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-8.jpg"],
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Game-of-Thrones-Text-Generation",
         "filters": ["nlp"]
     },
     {
@@ -90,7 +90,7 @@
         "coverimage": "/images/portfolios/ETHT_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Game-Of-Thrones--Text-Generation-",
         "filters": ["nlp"]
     },
     {
@@ -100,7 +100,7 @@
         "coverimage": "/images/portfolios/PSC_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Plant-Seedling-Classification",
         "filters": ["cv"]
     },
     {
@@ -110,7 +110,7 @@
         "coverimage": "/images/portfolios/RAD_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Raccoon-Detection-using-YoloV8-and-Roboflow",
         "filters": ["cv"]
     },
     {
@@ -123,7 +123,7 @@
             "/images/portfolios/portfolio-image-lg-11.jpg"
         ],
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Water-body-segmentation-in-Satellite-Images",
         "filters": ["cv"]
     },
     {
@@ -133,7 +133,7 @@
         "coverimage": "/images/portfolios/RSOC_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Respiratory-Sound-Classfication-Using-CNN",
         "filters": ["dl"]
     },
     {
@@ -143,7 +143,7 @@
         "coverimage": "/images/portfolios/DGMO_sm_img1.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://dribbble.com",
+        "url": "https://github.com/sv2441/Dr.-Driving-Game-using-Virtual-Steering-with-Mediapipe-and-OpenCV",
         "filters": ["cv","dl"]
     },
     {
