@@ -65,7 +65,7 @@ const ContactSection = () => {
               <div className="content">
                 <h5 className="mb-2">Contact address</h5>
                 <p className="mb-0">
-                  121 King Street, Melbourne, United States
+                  Andheri, Mumbai, India
                 </p>
               </div>
             </div>

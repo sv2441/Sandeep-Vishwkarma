@@ -94,7 +94,7 @@ const Homepage2 = ({ posts }) => {
         className="reviews-section pt-24 lg:pt-28 xl:pt-32"
       >
         <div className="container mx-auto">
-          <SectionHeading animated={false} title="Client Reviews" watermark="Reviews" />
+          <SectionHeading animated={false} title="Achivements" watermark="Reviews" />
           <ReviewsSection />
         </div>
       </Section>

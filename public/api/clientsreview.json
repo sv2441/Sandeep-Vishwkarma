@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "name": "David Chester",
-        "meta": "Client - Envato.com",
+        "name": "Winner MINeD 2023",
+        "meta": "Nirma University",
         "givenreview": 5.0,
-        "image": "/images/user-avatar-1.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "image": "/images/first_achive.png",
+        "text": "Received 1st Rank in Open innovation Category and 3rd Rand in grand Prize by Binghamton University.In this 36 hour Hackathon our team is Developed an ai system which helps in surveillance to solve the problems."
     },
     {
         "id": 2,
-        "name": "Emma Watson",
-        "meta": "Client - Envato.com",
-        "givenreview": 4.2,
-        "image": "/images/user-avatar-4.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "name": "Winner At Orian Hack 2021",
+        "meta": "KC College Of Engineering",
+        "givenreview": 5.0,
+        "image": "/images/first_achive.png",
+        "text": "We Developed a Hardware System to Prevent an Accident."
     },
     {
         "id": 3,
-        "name": "Jonathon Doe",
-        "meta": "Client - Envato.com",
-        "givenreview": 4.2,
-        "image": "/images/user-avatar-3.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "name": "Winner In NIC 2020",
+        "meta": "NIC 2020Winner In NIC 2020",
+        "givenreview": 5.0,
+        "image": "/images/first_achive.png",
+        "text": "Drishti Smart Aid for Blind people."
     },
     {
         "id": 4,
-        "name": "William Bieber",
-        "meta": "Client - Envato.com",
-        "givenreview": 4.7,
-        "image": "/images/user-avatar-2.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "name": "Atmanirbharta COVID-19: Startup competition",
+        "meta": "AISSMS College of Engineering",
+        "givenreview": 5.0,
+        "image": "/images/second_achive.png",
+        "text": "2nd Prize, During the hackathon we builded hardware solution for blind People."
     },
     {
         "id": 5,
-        "name": "Bob Harry",
-        "meta": "Client - Envato.com",
-        "givenreview": 5,
-        "image": "/images/user-avatar-2.png",
-        "text": "Working with Bieber is very good experience for me. He’s a good person. If I need developer in future, I’ll definately hire him."
+        "name": "Winner for National Level COVID-19 E-Hardware Hackathon ",
+        "meta": "K.C college of Engineering",
+        "givenreview": 5.0,
+        "image": "/images/first_achive.png",
+        "text": "Winner,During the hackathon we builded hardware solution for social Distancing and Mask Detection."
     }
 ]
